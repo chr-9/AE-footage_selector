@@ -2,7 +2,7 @@
 
 ## 概要
 Mini Bridge的なもの  
-![](https://raw.githubusercontent.com/cryo9/AE-fselect/master/doc/01.png)
+![](https://raw.githubusercontent.com/cryo9/AE-fselect/master/doc/00.gif)
 
 ## 動作環境
 Windows / AE CC2014以降
