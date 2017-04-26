@@ -43,6 +43,8 @@ namespace ConsoleApplication1
             regkey.SetValue("PlayerDebugMode", "1");
             regkey = Microsoft.Win32.Registry.CurrentUser.CreateSubKey(@"Software\Adobe\CSXS.6");
             regkey.SetValue("PlayerDebugMode", "1");
+            regkey = Microsoft.Win32.Registry.CurrentUser.CreateSubKey(@"Software\Adobe\CSXS.7");
+            regkey.SetValue("PlayerDebugMode", "1");
             regkey.Close();
 
             string ol = "";
